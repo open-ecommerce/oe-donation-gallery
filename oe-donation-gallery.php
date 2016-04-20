@@ -62,7 +62,7 @@ function include_template_donation($template_path) {
 }
 
 function donations_rewrite_flush() {
-    create_donation-gallery();
+    create_donation_gallery();
     flush_rewrite_rules();
 }
 
