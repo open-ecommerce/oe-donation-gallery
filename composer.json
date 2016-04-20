@@ -1,6 +1,6 @@
 {
-  "name": "open-ecommerce/oe-foundations",
-  "description": "MDS Foundation custom type for wordpress",
+  "name": "open-ecommerce/oe-donation-gallery",
+  "description": "MDS Donations Gallery custom type for wordpress",
   "keywords": ["wordpress", "plugin", "mds", "custom type"],
   "homepage": "http://www.open-ecommerce.org",
   "license": "GPL3",
